@@ -1,0 +1,9 @@
+@CHARSET "ISO-8859-1";
+body{
+	background: url(http://basedrone.es/wp-content/uploads/2014/11/fotografia-aerea-drone.jpg) no-repeat fixed center center ;
+	background-size: cover;
+		
+}
+.navbar-inverse .navbar-brand {
+    color: #FFF;
+}
